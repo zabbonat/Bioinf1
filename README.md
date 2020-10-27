@@ -1,2 +1,2 @@
 # Bioinf1
-# Dont' copy -> fatte gli affari tua zio
+# Don't copy -> fatte gli affari tua zio
